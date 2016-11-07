@@ -7,18 +7,17 @@ library(broom)
 mm <- read_csv("../data/xmart.csv")
 names(mm) <- c("country", "year", "maternal_mortality", "skilled_health_percentage")
 
-
 # remove spaces in maternal mortality numbers where commas should be
 mm$maternal_mortality <- str_replace_all(mm$maternal_mortality, "[\\s]+", "")
 
 # turn the numbers inside square brackets into lower bounds and upper bounds
-  # first grab the whole mm string when its there and remove the [, -, and ]
+# first grab the whole mm string when its there and remove the [, -, and ]
 tmp <- str_split(mm$maternal_mortality, "[\\[\\-\\]]")
 
-  # get rid of all but the first number in the maternal mortality column
+# get rid of all but the first number in the maternal mortality column
 mm$maternal_mortality <- str_replace(mm$maternal_mortality, "[\\[][0-9]*[-][0-9]*[\\]]", "")
 
-  # create the upper and lower bound lists
+# create the upper and lower bound lists
 mm_lower_bound <- vector(length = length(tmp), mode = "character")
 mm_upper_bound <- vector(length = length(tmp), mode = "character")
 i = 1
@@ -27,12 +26,14 @@ for (ss in tmp) {
   mm_upper_bound[i] = ss[3]
   i <- i + 1
 }
- 
-  # add the maternal mortality lower and upper bounds columns to the tibble
-mm <- mutate(mm, mm_lower_bound)
-mm <- mutate(mm, mm_upper_bound)
 
-  # convert the maternal mortality columns to numeric
+# add the maternal mortality lower and upper bounds columns to the tibble
+mm$mm_lower_bound <- mm_lower_bound
+mm$mm_upper_bound <- mm_upper_bound
+# mm <- mutate(mm, mm_lower_bound)
+# mm <- mutate(mm, mm_upper_bound)
+
+# convert the maternal mortality columns to numeric
 mm$maternal_mortality <- as.numeric(mm$maternal_mortality)
 mm$mm_lower_bound <- as.numeric(mm$mm_lower_bound)
 mm$mm_upper_bound <- as.numeric(mm$mm_upper_bound)
@@ -53,7 +54,7 @@ for (y in year_range_loc){
   i = i + 1
 }
 mm <- rbind(mm, mm_new) 
-  
+
 # make the year column numeric
 mm$year <- as.integer(mm$year)
 
@@ -78,3 +79,6 @@ gni <- na.omit(gni)
 
 # perform a join on the gni and mm tibbles using year and country as the keys
 mm_gni_clean <- inner_join(mm, gni, by = c("country" = "Country", "year" = "year"))
+
+# write a csv containing the final cleaned up data frame
+write.csv(mm_gni_clean, file = "../data/mm_gni_clean.csv")
