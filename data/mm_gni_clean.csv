@@ -1,439 +1,439 @@
-"","country","year","maternal_mortality","skilled_health_percentage","gross_nat_income"
-"1","Afghanistan",2013,NA,45.2,2000
-"2","Albania",2008,NA,99.3,8920
-"3","Albania",2000,43,NA,4370
-"4","Albania",1990,71,NA,2840
-"5","Algeria",2012,NA,96.6,12750
-"6","Algeria",2000,170,NA,7460
-"7","Algeria",1990,216,NA,6330
-"8","Angola",2006,NA,46.7,4260
-"9","Angola",2000,924,NA,2190
-"10","Angola",1990,1160,NA,2190
-"11","Armenia",2010,NA,99.5,6620
-"12","Armenia",2000,40,NA,2380
-"13","Armenia",1990,58,NA,2330
-"14","Australia",2013,NA,99.3,42540
-"15","Australia",2000,9,NA,25580
-"16","Australia",1990,8,NA,16820
-"17","Austria",2000,5,NA,28450
-"18","Austria",1990,8,NA,19180
-"19","Azerbaijan",2011,NA,97.2,14590
-"20","Azerbaijan",2000,48,NA,3350
-"21","Bahamas",2000,61,NA,20020
-"22","Bahamas",1990,46,NA,17480
-"23","Bahrain",2000,21,NA,34880
-"24","Bahrain",1990,26,NA,19200
-"25","Bangladesh",2000,399,NA,1140
-"26","Bangladesh",1990,569,NA,710
-"27","Barbados",2012,NA,98.9,15080
-"28","Barbados",2000,48,NA,11320
-"29","Barbados",1990,58,NA,8250
-"30","Belarus",2012,NA,100,16800
-"31","Belarus",2000,26,NA,5770
-"32","Belarus",1990,33,NA,5230
-"33","Belgium",2000,9,NA,28310
-"34","Belgium",1990,9,NA,18650
-"35","Belize",2011,NA,95.1,7940
-"36","Belize",2000,53,NA,6160
-"37","Belize",1990,54,NA,3280
-"38","Benin",2000,572,NA,1200
-"39","Benin",1990,576,NA,860
-"40","Bhutan",2012,NA,74.6,6960
-"41","Bhutan",2000,423,NA,2860
-"42","Bhutan",1990,945,NA,1420
-"43","Bolivia (Plurinational State of)",2012,NA,85.1,5400
-"44","Bolivia (Plurinational State of)",2000,334,NA,3340
-"45","Bolivia (Plurinational State of)",1990,425,NA,2300
-"46","Bosnia and Herzegovina",2000,17,NA,4840
-"47","Botswana",2013,NA,99.9,15500
-"48","Botswana",2000,311,NA,7620
-"49","Botswana",1990,243,NA,5070
-"50","Brazil",2013,NA,99.1,14750
-"51","Brazil",2000,66,NA,8500
-"52","Brazil",1990,104,NA,6300
-"53","Brunei Darussalam",2000,31,NA,59100
-"54","Brunei Darussalam",1990,35,NA,49930
-"55","Bulgaria",2000,21,NA,6080
-"56","Bulgaria",1990,25,NA,4970
-"57","Burkina Faso",2010,NA,65.9,1390
-"58","Burkina Faso",2000,547,NA,840
-"59","Burkina Faso",1990,727,NA,540
-"60","Burundi",2010,NA,60.3,710
-"61","Burundi",2000,954,NA,580
-"62","Burundi",1990,1220,NA,670
-"63","Cote d'Ivoire",2011,NA,56.4,2460
-"64","Cote d'Ivoire",2000,671,NA,2160
-"65","Cote d'Ivoire",1990,745,NA,1710
-"66","Cabo Verde",2013,NA,92.3,6220
-"67","Cabo Verde",2000,83,NA,2910
-"68","Cabo Verde",1990,256,NA,1050
-"69","Cambodia",2000,484,NA,1050
-"70","Cameroon",2000,750,NA,1710
-"71","Cameroon",1990,728,NA,1640
-"72","Canada",2011,NA,98.4,40570
-"73","Canada",2000,9,NA,28240
-"74","Canada",1990,7,NA,19150
-"75","Central African Republic",2010,NA,40,880
-"76","Central African Republic",2000,1200,NA,550
-"77","Central African Republic",1990,1290,NA,500
-"78","Chad",2000,1370,NA,730
-"79","Chad",1990,1450,NA,710
-"80","Chile",2013,NA,99.8,21030
-"81","Chile",2000,31,NA,9320
-"82","Chile",1990,57,NA,4140
-"83","China",2000,58,NA,2830
-"84","China",1990,97,NA,1010
-"85","Colombia",2013,NA,98.7,11890
-"86","Colombia",2000,97,NA,6520
-"87","Colombia",1990,118,NA,4760
-"88","Comoros",2012,NA,82.2,1520
-"89","Comoros",2000,499,NA,1250
-"90","Comoros",1990,635,NA,1170
-"91","Congo",2000,653,NA,2590
-"92","Congo",1990,603,NA,2830
-"93","Costa Rica",2000,38,NA,6990
-"94","Costa Rica",1990,43,NA,4590
-"95","Croatia",2000,11,NA,10730
-"96","Cuba",2000,43,NA,8670
-"97","Cuba",1990,58,NA,8580
-"98","Cyprus",2013,NA,99.9,28830
-"99","Cyprus",2000,15,NA,18190
-"100","Cyprus",1990,16,NA,12500
-"101","Czech Republic",2013,NA,99.8,25530
-"102","Czech Republic",2000,7,NA,15320
-"103","Democratic Republic of the Congo",2013,NA,80.1,680
-"104","Democratic Republic of the Congo",2000,874,NA,410
-"105","Democratic Republic of the Congo",1990,879,NA,750
-"106","Denmark",2012,NA,98.2,43200
-"107","Denmark",2000,9,NA,28240
-"108","Denmark",1990,11,NA,17980
-"109","Djibouti",2000,401,NA,1700
-"110","Dominican Republic",2000,79,NA,5460
-"111","Dominican Republic",1990,198,NA,2950
-"112","Ecuador",2000,103,NA,5310
-"113","Ecuador",1990,185,NA,4380
-"114","Egypt",2000,63,NA,6260
-"115","Egypt",1990,106,NA,3800
-"116","El Salvador",2000,84,NA,4880
-"117","El Salvador",1990,157,NA,2820
-"118","Equatorial Guinea",2011,NA,68.3,27630
-"119","Equatorial Guinea",2000,702,NA,6030
-"120","Equatorial Guinea",1990,1310,NA,730
-"121","Eritrea",2010,NA,34.1,1050
-"122","Eritrea",2000,733,NA,1150
-"123","Estonia",2000,26,NA,9380
-"124","Ethiopia",2000,897,NA,480
-"125","Ethiopia",1990,1250,NA,410
-"126","Fiji",2013,NA,98.8,7610
-"127","Fiji",2000,42,NA,5560
-"128","Fiji",1990,63,NA,3790
-"129","Finland",2000,5,NA,25500
-"130","Finland",1990,6,NA,17090
-"131","France",2013,NA,98.3,37580
-"132","France",2000,12,NA,25560
-"133","France",1990,15,NA,17130
-"134","Gabon",2012,NA,89.3,16490
-"135","Gabon",2000,405,NA,11710
-"136","Gabon",1990,422,NA,11120
-"137","Gambia",2013,NA,57.2,1620
-"138","Gambia",2000,887,NA,1190
-"139","Gambia",1990,1030,NA,900
-"140","Georgia",2000,37,NA,2700
-"141","Georgia",1990,34,NA,5210
-"142","Germany",2000,8,NA,25510
-"143","Germany",1990,11,NA,18750
-"144","Ghana",2000,467,NA,1720
-"145","Ghana",1990,634,NA,1200
-"146","Greece",2000,4,NA,18340
-"147","Greece",1990,5,NA,12950
-"148","Grenada",2000,29,NA,7210
-"149","Grenada",1990,41,NA,4580
-"150","Guatemala",2000,178,NA,4950
-"151","Guatemala",1990,205,NA,3370
-"152","Guinea",2012,NA,45.3,1140
-"153","Guinea",2000,976,NA,880
-"154","Guinea",1990,1040,NA,690
-"155","Guinea-Bissau",2000,800,NA,560
-"156","Guinea-Bissau",1990,907,NA,930
-"157","Guyana",2000,210,NA,3730
-"158","Guyana",1990,171,NA,1450
-"159","Haiti",2012,NA,37.3,1640
-"160","Honduras",2011,NA,82.8,4110
-"161","Honduras",2000,133,NA,2680
-"162","Honduras",1990,272,NA,1900
-"163","Hungary",2010,NA,99.1,20140
-"164","Hungary",2000,15,NA,11310
-"165","Hungary",1990,24,NA,8540
-"166","Iceland",2000,5,NA,28070
-"167","Iceland",1990,7,NA,20580
-"168","India",2013,NA,74.4,5350
-"169","India",2000,374,NA,2040
-"170","India",1990,556,NA,1160
-"171","Indonesia",2013,NA,87.4,9260
-"172","Indonesia",2000,265,NA,4010
-"173","Indonesia",1990,446,NA,2660
-"174","Iran (Islamic Republic of)",2000,51,NA,8490
-"175","Iran (Islamic Republic of)",1990,123,NA,5620
-"176","Iraq",2011,NA,90.9,13620
-"177","Ireland",2000,9,NA,24930
-"178","Ireland",1990,11,NA,12050
-"179","Israel",2000,8,NA,21480
-"180","Israel",1990,11,NA,13100
-"181","Italy",2013,NA,99.9,34100
-"182","Italy",2000,5,NA,25590
-"183","Italy",1990,8,NA,17360
-"184","Jamaica",2011,NA,98.6,8170
-"185","Jamaica",2000,89,NA,6210
-"186","Jamaica",1990,79,NA,4330
-"187","Japan",2000,10,NA,26260
-"188","Japan",1990,14,NA,19370
-"189","Jordan",2012,NA,99.6,11390
-"190","Jordan",2000,77,NA,6180
-"191","Jordan",1990,110,NA,4340
-"192","Kazakhstan",2010,NA,99.5,16710
-"193","Kazakhstan",2000,65,NA,7170
-"194","Kenya",2000,759,NA,1420
-"195","Kenya",1990,687,NA,1250
-"196","Kiribati",2009,NA,79.8,2430
-"197","Kiribati",2000,166,NA,2320
-"198","Kiribati",1990,234,NA,1600
-"199","Kuwait",2000,7,NA,75580
-"200","Kyrgyzstan",2000,74,NA,1550
-"201","Kyrgyzstan",1990,80,NA,2250
-"202","Lao People's Democratic Republic",2011,NA,40.1,3840
-"203","Lao People's Democratic Republic",2000,546,NA,1770
-"204","Lao People's Democratic Republic",1990,905,NA,1050
-"205","Latvia",2000,30,NA,8050
-"206","Latvia",1990,48,NA,7810
-"207","Lebanon",2004,NA,98.2,10250
-"208","Lebanon",2000,42,NA,9970
-"209","Lebanon",1990,74,NA,6110
-"210","Lesotho",2000,649,NA,1710
-"211","Lesotho",1990,629,NA,1410
-"212","Liberia",2013,NA,61.1,790
-"213","Liberia",2000,1270,NA,360
-"214","Lithuania",2006,NA,100,16430
-"215","Lithuania",2000,16,NA,8480
-"216","Lithuania",1990,29,NA,9300
-"217","Luxembourg",2009,NA,99.9,52190
-"218","Luxembourg",2000,13,NA,46800
-"219","Luxembourg",1990,12,NA,28820
-"220","Madagascar",2012,NA,44.3,1340
-"221","Madagascar",2000,536,NA,1130
-"222","Madagascar",1990,778,NA,1040
-"223","Malawi",2013,NA,87.4,750
-"224","Malawi",2000,890,NA,490
-"225","Malawi",1990,957,NA,340
-"226","Malaysia",2000,58,NA,11440
-"227","Malaysia",1990,79,NA,6300
-"228","Maldives",2012,NA,95.5,9310
-"229","Mali",2012,NA,57.1,1550
-"230","Mali",2000,834,NA,990
-"231","Mali",1990,1010,NA,710
-"232","Malta",2013,NA,99.9,28030
-"233","Malta",2000,15,NA,18590
-"234","Malta",1990,13,NA,11740
-"235","Marshall Islands",2011,NA,90.1,4260
-"236","Mauritania",2011,NA,65.1,2610
-"237","Mauritania",2000,813,NA,1760
-"238","Mauritania",1990,859,NA,1350
-"239","Mauritius",2000,40,NA,8950
-"240","Mauritius",1990,81,NA,4860
-"241","Mexico",2000,77,NA,9990
-"242","Mexico",1990,90,NA,5800
-"243","Micronesia (Federated States of)",2009,NA,100,3330
-"244","Micronesia (Federated States of)",2000,153,NA,2580
-"245","Mongolia",2013,NA,98.9,8810
-"246","Mongolia",2000,161,NA,3090
-"247","Mongolia",1990,186,NA,2740
-"248","Montenegro",2013,NA,99,14600
-"249","Montenegro",2000,11,NA,6880
-"250","Morocco",2011,NA,73.6,6490
-"251","Morocco",2000,221,NA,3420
-"252","Morocco",1990,317,NA,2550
-"253","Mozambique",2011,NA,54.3,910
-"254","Mozambique",2000,915,NA,410
-"255","Mozambique",1990,1390,NA,260
-"256","Namibia",2013,NA,88.2,9590
-"257","Namibia",2000,352,NA,4930
-"258","Namibia",1990,338,NA,3780
-"259","Nepal",2000,548,NA,1260
-"260","Nepal",1990,901,NA,810
-"261","Netherlands",2000,14,NA,30070
-"262","Netherlands",1990,12,NA,17490
-"263","New Zealand",2000,12,NA,20090
-"264","New Zealand",1990,18,NA,14200
-"265","Nicaragua",2011,NA,88,4110
-"266","Nicaragua",2000,202,NA,2620
-"267","Nicaragua",1990,173,NA,1920
-"268","Niger",2012,NA,29.3,880
-"269","Niger",2000,794,NA,610
-"270","Niger",1990,873,NA,590
-"271","Nigeria",2013,NA,35.2,5360
-"272","Nigeria",2000,1170,NA,1940
-"273","Nigeria",1990,1350,NA,1770
-"274","Norway",2000,7,NA,35690
-"275","Norway",1990,7,NA,17370
-"276","Oman",2000,20,NA,29010
-"277","Oman",1990,30,NA,18490
-"278","Pakistan",2012,NA,52.1,4670
-"279","Pakistan",2000,306,NA,2640
-"280","Pakistan",1990,431,NA,2000
-"281","Panama",2013,NA,91.4,19290
-"282","Panama",2000,82,NA,7480
-"283","Panama",1990,102,NA,4600
-"284","Papua New Guinea",2013,NA,43,2430
-"285","Papua New Guinea",2000,342,NA,1380
-"286","Papua New Guinea",1990,470,NA,1000
-"287","Paraguay",2013,NA,95.7,7640
-"288","Paraguay",2000,158,NA,4140
-"289","Peru",2000,140,NA,5000
-"290","Peru",1990,251,NA,3290
-"291","Philippines",2013,NA,72.8,7820
-"292","Philippines",2000,124,NA,3950
-"293","Philippines",1990,152,NA,2550
-"294","Poland",2000,8,NA,10540
-"295","Portugal",2000,13,NA,17340
-"296","Portugal",1990,17,NA,10960
-"297","Qatar",2012,NA,100,121750
-"298","Republic of Korea",2012,NA,99.8,32150
-"299","Republic of Korea",2000,16,NA,17990
-"300","Republic of Korea",1990,21,NA,8600
-"301","Republic of Moldova",2012,NA,99.2,4710
-"302","Republic of Moldova",2000,49,NA,1870
-"303","Republic of Moldova",1990,51,NA,4160
-"304","Romania",2008,NA,98.7,15280
-"305","Romania",2000,51,NA,5670
-"306","Romania",1990,124,NA,5160
-"307","Russian Federation",2008,NA,99.6,19710
-"308","Russian Federation",2000,57,NA,6650
-"309","Russian Federation",1990,63,NA,8000
-"310","Rwanda",2000,1020,NA,600
-"311","Rwanda",1990,1300,NA,550
-"312","Saint Lucia",2012,NA,98.7,10260
-"313","Saint Lucia",2000,54,NA,7060
-"314","Saint Lucia",1990,45,NA,4720
-"315","Saint Vincent and the Grenadines",2000,74,NA,5720
-"316","Saint Vincent and the Grenadines",1990,58,NA,3500
-"317","Samoa",2000,93,NA,3080
-"318","Samoa",1990,156,NA,3090
-"319","Saudi Arabia",2013,NA,98,53780
-"320","Saudi Arabia",2000,23,NA,29490
-"321","Saudi Arabia",1990,46,NA,24390
-"322","Senegal",2012,NA,59.1,2180
-"323","Senegal",2000,488,NA,1490
-"324","Senegal",1990,540,NA,1160
-"325","Serbia",2000,17,NA,5790
-"326","Seychelles",2012,NA,99,22220
-"327","Sierra Leone",2013,NA,59.7,1750
-"328","Sierra Leone",2000,2650,NA,770
-"329","Sierra Leone",1990,2630,NA,770
-"330","Singapore",2000,18,NA,40610
-"331","Singapore",1990,12,NA,21930
-"332","Slovakia",2008,NA,99.5,22840
-"333","Slovakia",2000,8,NA,10960
-"334","Slovakia",1990,11,NA,7680
-"335","Slovenia",2012,NA,99.8,27610
-"336","Slovenia",2000,12,NA,17590
-"337","Solomon Islands",2006,NA,85.5,1540
-"338","Solomon Islands",2000,214,NA,1360
-"339","Solomon Islands",1990,364,NA,790
-"340","South Africa",2008,NA,94.3,10960
-"341","South Africa",2000,85,NA,7370
-"342","South Africa",1990,108,NA,6190
-"343","South Sudan",2010,NA,17.2,2600
-"344","Spain",2000,5,NA,21160
-"345","Spain",1990,6,NA,13200
-"346","Sri Lanka",2006,NA,98.6,5640
-"347","Sri Lanka",2000,57,NA,3850
-"348","Sri Lanka",1990,75,NA,2150
-"349","Sudan",2010,NA,19.9,2970
-"350","Sudan",2000,544,NA,1790
-"351","Sudan",1990,744,NA,1110
-"352","Suriname",2010,NA,90,13730
-"353","Suriname",2000,259,NA,7810
-"354","Suriname",1990,127,NA,6700
-"355","Swaziland",2000,586,NA,4730
-"356","Swaziland",1990,635,NA,3660
-"357","Sweden",2000,5,NA,27750
-"358","Sweden",1990,8,NA,19010
-"359","Switzerland",2000,7,NA,34890
-"360","Switzerland",1990,8,NA,25940
-"361","Tajikistan",2012,NA,87.4,2340
-"362","Tajikistan",2000,68,NA,900
-"363","Tajikistan",1990,107,NA,2350
-"364","Thailand",2012,NA,99.6,13420
-"365","Thailand",2000,25,NA,6980
-"366","Thailand",1990,40,NA,4070
-"367","The former Yugoslav republic of Macedonia",2000,12,NA,5710
-"368","The former Yugoslav republic of Macedonia",1990,14,NA,5220
-"369","Timor-Leste",2009,NA,29.3,5100
-"370","Timor-Leste",2000,694,NA,1640
-"371","Togo",2013,NA,44.6,1180
-"372","Togo",2000,491,NA,1010
-"373","Togo",1990,568,NA,860
-"374","Tonga",2012,NA,95.5,5370
-"375","Tonga",2000,97,NA,3700
-"376","Tonga",1990,75,NA,2370
-"377","Trinidad and Tobago",2000,62,NA,12980
-"378","Trinidad and Tobago",1990,90,NA,8040
-"379","Tunisia",2011,NA,73.6,9720
-"380","Tunisia",2000,84,NA,5620
-"381","Tunisia",1990,131,NA,3420
-"382","Turkey",2013,NA,97.4,18760
-"383","Turkey",2000,79,NA,9180
-"384","Turkey",1990,97,NA,4360
-"385","Turkmenistan",2005,NA,99.5,5400
-"386","Turkmenistan",2000,59,NA,3990
-"387","Tuvalu",2007,NA,93.1,5430
-"388","Uganda",2011,NA,58,1310
-"389","Uganda",2000,620,NA,690
-"390","Uganda",1990,687,NA,410
-"391","Ukraine",2012,NA,99,8670
-"392","Ukraine",2000,34,NA,3710
-"393","Ukraine",1990,46,NA,6960
-"394","United Arab Emirates",2010,NA,100,56260
-"395","United Kingdom of Great Britain and Northern Ireland",2000,12,NA,26280
-"396","United Kingdom of Great Britain and Northern Ireland",1990,10,NA,15770
-"397","United Republic of Tanzania",2010,NA,48.9,1500
-"398","United Republic of Tanzania",2000,842,NA,820
-"399","United Republic of Tanzania",1990,997,NA,640
-"400","United States of America",2000,12,NA,36930
-"401","United States of America",1990,12,NA,23730
-"402","Uruguay",2013,NA,98.2,18930
-"403","Uruguay",2000,31,NA,9960
-"404","Uruguay",1990,37,NA,6000
-"405","Uzbekistan",2006,NA,99.6,2950
-"406","Uzbekistan",2000,34,NA,1940
-"407","Vanuatu",2013,NA,89.4,2840
-"408","Vanuatu",2000,144,NA,2120
-"409","Vanuatu",1990,225,NA,1680
-"410","Venezuela (Bolivarian Republic of)",2000,90,NA,11340
-"411","Venezuela (Bolivarian Republic of)",1990,94,NA,9260
-"412","Viet Nam",2013,NA,93.8,5030
-"413","Viet Nam",2000,81,NA,2070
-"414","Viet Nam",1990,139,NA,910
-"415","Yemen",2013,NA,43,3820
-"416","Yemen",2000,440,NA,2930
-"417","Yemen",1990,547,NA,2210
-"418","Zambia",2013,NA,64.2,3070
-"419","Zambia",2000,541,NA,1590
-"420","Zambia",1990,577,NA,1500
-"421","Zimbabwe",2000,590,NA,1890
-"422","Zimbabwe",1990,440,NA,1590
-"423","Albania",2009,NA,99.3,9370
-"424","Algeria",2013,NA,96.6,12990
-"425","Angola",2007,NA,46.7,5320
-"426","Cote d'Ivoire",2012,NA,56.4,2680
-"427","Honduras",2012,NA,82.8,4190
-"428","Kazakhstan",2011,NA,99.5,17710
-"429","Lao People's Democratic Republic",2012,NA,40.1,4170
-"430","Madagascar",2013,NA,44.3,1350
-"431","Mali",2013,NA,57.1,1540
-"432","Nicaragua",2012,NA,88,4240
-"433","Pakistan",2013,NA,52.1,4920
-"434","Solomon Islands",2007,NA,85.5,1520
-"435","Sri Lanka",2007,NA,98.6,6140
-"436","Timor-Leste",2010,NA,29.3,6320
-"437","Tunisia",2012,NA,73.6,10470
-"438","Turkmenistan",2006,NA,99.5,6370
+"","country","year","maternal_mortality","skilled_health_percentage","mm_lower_bound","mm_upper_bound","gross_nat_income"
+"1","Afghanistan",2013,NA,45.2,NA,NA,2000
+"2","Albania",2008,NA,99.3,NA,NA,8920
+"3","Albania",2000,43,NA,33,56,4370
+"4","Albania",1990,71,NA,58,88,2840
+"5","Algeria",2012,NA,96.6,NA,NA,12750
+"6","Algeria",2000,170,NA,118,241,7460
+"7","Algeria",1990,216,NA,141,327,6330
+"8","Angola",2006,NA,46.7,NA,NA,4260
+"9","Angola",2000,924,NA,472,1730,2190
+"10","Angola",1990,1160,NA,627,2020,2190
+"11","Armenia",2010,NA,99.5,NA,NA,6620
+"12","Armenia",2000,40,NA,35,46,2380
+"13","Armenia",1990,58,NA,51,65,2330
+"14","Australia",2013,NA,99.3,NA,NA,42540
+"15","Australia",2000,9,NA,8,10,25580
+"16","Australia",1990,8,NA,7,9,16820
+"17","Austria",2000,5,NA,4,6,28450
+"18","Austria",1990,8,NA,7,10,19180
+"19","Azerbaijan",2011,NA,97.2,NA,NA,14590
+"20","Azerbaijan",2000,48,NA,42,55,3350
+"21","Bahamas",2000,61,NA,50,74,20020
+"22","Bahamas",1990,46,NA,34,61,17480
+"23","Bahrain",2000,21,NA,18,26,34880
+"24","Bahrain",1990,26,NA,20,33,19200
+"25","Bangladesh",2000,399,NA,322,496,1140
+"26","Bangladesh",1990,569,NA,446,715,710
+"27","Barbados",2012,NA,98.9,NA,NA,15080
+"28","Barbados",2000,48,NA,38,58,11320
+"29","Barbados",1990,58,NA,47,72,8250
+"30","Belarus",2012,NA,100,NA,NA,16800
+"31","Belarus",2000,26,NA,22,31,5770
+"32","Belarus",1990,33,NA,28,38,5230
+"33","Belgium",2000,9,NA,8,11,28310
+"34","Belgium",1990,9,NA,7,10,18650
+"35","Belize",2011,NA,95.1,NA,NA,7940
+"36","Belize",2000,53,NA,45,62,6160
+"37","Belize",1990,54,NA,45,65,3280
+"38","Benin",2000,572,NA,448,732,1200
+"39","Benin",1990,576,NA,453,726,860
+"40","Bhutan",2012,NA,74.6,NA,NA,6960
+"41","Bhutan",2000,423,NA,328,538,2860
+"42","Bhutan",1990,945,NA,697,1260,1420
+"43","Bolivia (Plurinational State of)",2012,NA,85.1,NA,NA,5400
+"44","Bolivia (Plurinational State of)",2000,334,NA,272,416,3340
+"45","Bolivia (Plurinational State of)",1990,425,NA,340,527,2300
+"46","Bosnia and Herzegovina",2000,17,NA,12,24,4840
+"47","Botswana",2013,NA,99.9,NA,NA,15500
+"48","Botswana",2000,311,NA,261,361,7620
+"49","Botswana",1990,243,NA,149,352,5070
+"50","Brazil",2013,NA,99.1,NA,NA,14750
+"51","Brazil",2000,66,NA,64,67,8500
+"52","Brazil",1990,104,NA,91,119,6300
+"53","Brunei Darussalam",2000,31,NA,25,39,59100
+"54","Brunei Darussalam",1990,35,NA,25,48,49930
+"55","Bulgaria",2000,21,NA,18,25,6080
+"56","Bulgaria",1990,25,NA,21,29,4970
+"57","Burkina Faso",2010,NA,65.9,NA,NA,1390
+"58","Burkina Faso",2000,547,NA,432,686,840
+"59","Burkina Faso",1990,727,NA,549,978,540
+"60","Burundi",2010,NA,60.3,NA,NA,710
+"61","Burundi",2000,954,NA,682,1310,580
+"62","Burundi",1990,1220,NA,848,1760,670
+"63","Cote d'Ivoire",2011,NA,56.4,NA,NA,2460
+"64","Cote d'Ivoire",2000,671,NA,522,856,2160
+"65","Cote d'Ivoire",1990,745,NA,577,964,1710
+"66","Cabo Verde",2013,NA,92.3,NA,NA,6220
+"67","Cabo Verde",2000,83,NA,45,162,2910
+"68","Cabo Verde",1990,256,NA,141,460,1050
+"69","Cambodia",2000,484,NA,396,596,1050
+"70","Cameroon",2000,750,NA,615,918,1710
+"71","Cameroon",1990,728,NA,566,926,1640
+"72","Canada",2011,NA,98.4,NA,NA,40570
+"73","Canada",2000,9,NA,9,10,28240
+"74","Canada",1990,7,NA,7,8,19150
+"75","Central African Republic",2010,NA,40,NA,NA,880
+"76","Central African Republic",2000,1200,NA,836,1750,550
+"77","Central African Republic",1990,1290,NA,979,1720,500
+"78","Chad",2000,1370,NA,1070,1790,730
+"79","Chad",1990,1450,NA,1100,1900,710
+"80","Chile",2013,NA,99.8,NA,NA,21030
+"81","Chile",2000,31,NA,27,34,9320
+"82","Chile",1990,57,NA,51,64,4140
+"83","China",2000,58,NA,52,65,2830
+"84","China",1990,97,NA,80,117,1010
+"85","Colombia",2013,NA,98.7,NA,NA,11890
+"86","Colombia",2000,97,NA,90,104,6520
+"87","Colombia",1990,118,NA,94,142,4760
+"88","Comoros",2012,NA,82.2,NA,NA,1520
+"89","Comoros",2000,499,NA,324,765,1250
+"90","Comoros",1990,635,NA,414,961,1170
+"91","Congo",2000,653,NA,492,864,2590
+"92","Congo",1990,603,NA,421,857,2830
+"93","Costa Rica",2000,38,NA,35,43,6990
+"94","Costa Rica",1990,43,NA,38,48,4590
+"95","Croatia",2000,11,NA,9,13,10730
+"96","Cuba",2000,43,NA,39,47,8670
+"97","Cuba",1990,58,NA,51,65,8580
+"98","Cyprus",2013,NA,99.9,NA,NA,28830
+"99","Cyprus",2000,15,NA,9,25,18190
+"100","Cyprus",1990,16,NA,10,26,12500
+"101","Czech Republic",2013,NA,99.8,NA,NA,25530
+"102","Czech Republic",2000,7,NA,6,8,15320
+"103","Democratic Republic of the Congo",2013,NA,80.1,NA,NA,680
+"104","Democratic Republic of the Congo",2000,874,NA,639,1160,410
+"105","Democratic Republic of the Congo",1990,879,NA,610,1250,750
+"106","Denmark",2012,NA,98.2,NA,NA,43200
+"107","Denmark",2000,9,NA,8,10,28240
+"108","Denmark",1990,11,NA,9,12,17980
+"109","Djibouti",2000,401,NA,218,759,1700
+"110","Dominican Republic",2000,79,NA,74,83,5460
+"111","Dominican Republic",1990,198,NA,133,292,2950
+"112","Ecuador",2000,103,NA,91,116,5310
+"113","Ecuador",1990,185,NA,164,211,4380
+"114","Egypt",2000,63,NA,56,71,6260
+"115","Egypt",1990,106,NA,90,128,3800
+"116","El Salvador",2000,84,NA,75,95,4880
+"117","El Salvador",1990,157,NA,134,185,2820
+"118","Equatorial Guinea",2011,NA,68.3,NA,NA,27630
+"119","Equatorial Guinea",2000,702,NA,457,1060,6030
+"120","Equatorial Guinea",1990,1310,NA,819,2080,730
+"121","Eritrea",2010,NA,34.1,NA,NA,1050
+"122","Eritrea",2000,733,NA,527,995,1150
+"123","Estonia",2000,26,NA,21,31,9380
+"124","Ethiopia",2000,897,NA,718,1100,480
+"125","Ethiopia",1990,1250,NA,906,1640,410
+"126","Fiji",2013,NA,98.8,NA,NA,7610
+"127","Fiji",2000,42,NA,33,53,5560
+"128","Fiji",1990,63,NA,47,98,3790
+"129","Finland",2000,5,NA,4,6,25500
+"130","Finland",1990,6,NA,5,7,17090
+"131","France",2013,NA,98.3,NA,NA,37580
+"132","France",2000,12,NA,11,13,25560
+"133","France",1990,15,NA,13,16,17130
+"134","Gabon",2012,NA,89.3,NA,NA,16490
+"135","Gabon",2000,405,NA,298,550,11710
+"136","Gabon",1990,422,NA,290,599,11120
+"137","Gambia",2013,NA,57.2,NA,NA,1620
+"138","Gambia",2000,887,NA,609,1250,1190
+"139","Gambia",1990,1030,NA,672,1490,900
+"140","Georgia",2000,37,NA,30,44,2700
+"141","Georgia",1990,34,NA,29,40,5210
+"142","Germany",2000,8,NA,7,9,25510
+"143","Germany",1990,11,NA,10,13,18750
+"144","Ghana",2000,467,NA,342,645,1720
+"145","Ghana",1990,634,NA,436,911,1200
+"146","Greece",2000,4,NA,3,4,18340
+"147","Greece",1990,5,NA,4,6,12950
+"148","Grenada",2000,29,NA,21,38,7210
+"149","Grenada",1990,41,NA,30,53,4580
+"150","Guatemala",2000,178,NA,170,186,4950
+"151","Guatemala",1990,205,NA,194,217,3370
+"152","Guinea",2012,NA,45.3,NA,NA,1140
+"153","Guinea",2000,976,NA,787,1200,880
+"154","Guinea",1990,1040,NA,782,1360,690
+"155","Guinea-Bissau",2000,800,NA,417,1450,560
+"156","Guinea-Bissau",1990,907,NA,512,1540,930
+"157","Guyana",2000,210,NA,185,241,3730
+"158","Guyana",1990,171,NA,141,197,1450
+"159","Haiti",2012,NA,37.3,NA,NA,1640
+"160","Honduras",2011,NA,82.8,NA,NA,4110
+"161","Honduras",2000,133,NA,115,154,2680
+"162","Honduras",1990,272,NA,256,290,1900
+"163","Hungary",2010,NA,99.1,NA,NA,20140
+"164","Hungary",2000,15,NA,12,18,11310
+"165","Hungary",1990,24,NA,21,28,8540
+"166","Iceland",2000,5,NA,3,7,28070
+"167","Iceland",1990,7,NA,5,9,20580
+"168","India",2013,NA,74.4,NA,NA,5350
+"169","India",2000,374,NA,324,437,2040
+"170","India",1990,556,NA,445,685,1160
+"171","Indonesia",2013,NA,87.4,NA,NA,9260
+"172","Indonesia",2000,265,NA,213,324,4010
+"173","Indonesia",1990,446,NA,347,564,2660
+"174","Iran (Islamic Republic of)",2000,51,NA,43,60,8490
+"175","Iran (Islamic Republic of)",1990,123,NA,98,171,5620
+"176","Iraq",2011,NA,90.9,NA,NA,13620
+"177","Ireland",2000,9,NA,8,11,24930
+"178","Ireland",1990,11,NA,9,13,12050
+"179","Israel",2000,8,NA,7,9,21480
+"180","Israel",1990,11,NA,10,13,13100
+"181","Italy",2013,NA,99.9,NA,NA,34100
+"182","Italy",2000,5,NA,4,6,25590
+"183","Italy",1990,8,NA,7,9,17360
+"184","Jamaica",2011,NA,98.6,NA,NA,8170
+"185","Jamaica",2000,89,NA,79,100,6210
+"186","Jamaica",1990,79,NA,64,97,4330
+"187","Japan",2000,10,NA,9,11,26260
+"188","Japan",1990,14,NA,12,15,19370
+"189","Jordan",2012,NA,99.6,NA,NA,11390
+"190","Jordan",2000,77,NA,66,92,6180
+"191","Jordan",1990,110,NA,88,140,4340
+"192","Kazakhstan",2010,NA,99.5,NA,NA,16710
+"193","Kazakhstan",2000,65,NA,57,75,7170
+"194","Kenya",2000,759,NA,615,947,1420
+"195","Kenya",1990,687,NA,518,899,1250
+"196","Kiribati",2009,NA,79.8,NA,NA,2430
+"197","Kiribati",2000,166,NA,113,241,2320
+"198","Kiribati",1990,234,NA,169,330,1600
+"199","Kuwait",2000,7,NA,6,8,75580
+"200","Kyrgyzstan",2000,74,NA,64,84,1550
+"201","Kyrgyzstan",1990,80,NA,71,90,2250
+"202","Lao People's Democratic Republic",2011,NA,40.1,NA,NA,3840
+"203","Lao People's Democratic Republic",2000,546,NA,417,720,1770
+"204","Lao People's Democratic Republic",1990,905,NA,638,1230,1050
+"205","Latvia",2000,30,NA,25,35,8050
+"206","Latvia",1990,48,NA,41,57,7810
+"207","Lebanon",2004,NA,98.2,NA,NA,10250
+"208","Lebanon",2000,42,NA,30,59,9970
+"209","Lebanon",1990,74,NA,50,109,6110
+"210","Lesotho",2000,649,NA,492,861,1710
+"211","Lesotho",1990,629,NA,422,908,1410
+"212","Liberia",2013,NA,61.1,NA,NA,790
+"213","Liberia",2000,1270,NA,972,1620,360
+"214","Lithuania",2006,NA,100,NA,NA,16430
+"215","Lithuania",2000,16,NA,14,20,8480
+"216","Lithuania",1990,29,NA,24,34,9300
+"217","Luxembourg",2009,NA,99.9,NA,NA,52190
+"218","Luxembourg",2000,13,NA,10,16,46800
+"219","Luxembourg",1990,12,NA,9,15,28820
+"220","Madagascar",2012,NA,44.3,NA,NA,1340
+"221","Madagascar",2000,536,NA,441,657,1130
+"222","Madagascar",1990,778,NA,625,963,1040
+"223","Malawi",2013,NA,87.4,NA,NA,750
+"224","Malawi",2000,890,NA,703,1140,490
+"225","Malawi",1990,957,NA,726,1240,340
+"226","Malaysia",2000,58,NA,50,66,11440
+"227","Malaysia",1990,79,NA,57,99,6300
+"228","Maldives",2012,NA,95.5,NA,NA,9310
+"229","Mali",2012,NA,57.1,NA,NA,1550
+"230","Mali",2000,834,NA,682,997,990
+"231","Mali",1990,1010,NA,802,1260,710
+"232","Malta",2013,NA,99.9,NA,NA,28030
+"233","Malta",2000,15,NA,11,20,18590
+"234","Malta",1990,13,NA,10,17,11740
+"235","Marshall Islands",2011,NA,90.1,NA,NA,4260
+"236","Mauritania",2011,NA,65.1,NA,NA,2610
+"237","Mauritania",2000,813,NA,596,1100,1760
+"238","Mauritania",1990,859,NA,566,1230,1350
+"239","Mauritius",2000,40,NA,33,49,8950
+"240","Mauritius",1990,81,NA,68,95,4860
+"241","Mexico",2000,77,NA,75,78,9990
+"242","Mexico",1990,90,NA,88,92,5800
+"243","Micronesia (Federated States of)",2009,NA,100,NA,NA,3330
+"244","Micronesia (Federated States of)",2000,153,NA,77,298,2580
+"245","Mongolia",2013,NA,98.9,NA,NA,8810
+"246","Mongolia",2000,161,NA,140,186,3090
+"247","Mongolia",1990,186,NA,144,239,2740
+"248","Montenegro",2013,NA,99,NA,NA,14600
+"249","Montenegro",2000,11,NA,7,17,6880
+"250","Morocco",2011,NA,73.6,NA,NA,6490
+"251","Morocco",2000,221,NA,186,279,3420
+"252","Morocco",1990,317,NA,241,387,2550
+"253","Mozambique",2011,NA,54.3,NA,NA,910
+"254","Mozambique",2000,915,NA,706,1160,410
+"255","Mozambique",1990,1390,NA,992,1880,260
+"256","Namibia",2013,NA,88.2,NA,NA,9590
+"257","Namibia",2000,352,NA,275,453,4930
+"258","Namibia",1990,338,NA,250,449,3780
+"259","Nepal",2000,548,NA,412,713,1260
+"260","Nepal",1990,901,NA,683,1200,810
+"261","Netherlands",2000,14,NA,13,15,30070
+"262","Netherlands",1990,12,NA,10,13,17490
+"263","New Zealand",2000,12,NA,10,14,20090
+"264","New Zealand",1990,18,NA,16,21,14200
+"265","Nicaragua",2011,NA,88,NA,NA,4110
+"266","Nicaragua",2000,202,NA,174,234,2620
+"267","Nicaragua",1990,173,NA,142,210,1920
+"268","Niger",2012,NA,29.3,NA,NA,880
+"269","Niger",2000,794,NA,639,996,610
+"270","Niger",1990,873,NA,691,1090,590
+"271","Nigeria",2013,NA,35.2,NA,NA,5360
+"272","Nigeria",2000,1170,NA,866,1520,1940
+"273","Nigeria",1990,1350,NA,893,1820,1770
+"274","Norway",2000,7,NA,6,8,35690
+"275","Norway",1990,7,NA,6,8,17370
+"276","Oman",2000,20,NA,18,24,29010
+"277","Oman",1990,30,NA,24,38,18490
+"278","Pakistan",2012,NA,52.1,NA,NA,4670
+"279","Pakistan",2000,306,NA,208,446,2640
+"280","Pakistan",1990,431,NA,288,656,2000
+"281","Panama",2013,NA,91.4,NA,NA,19290
+"282","Panama",2000,82,NA,72,92,7480
+"283","Panama",1990,102,NA,86,119,4600
+"284","Papua New Guinea",2013,NA,43,NA,NA,2430
+"285","Papua New Guinea",2000,342,NA,177,682,1380
+"286","Papua New Guinea",1990,470,NA,265,843,1000
+"287","Paraguay",2013,NA,95.7,NA,NA,7640
+"288","Paraguay",2000,158,NA,142,176,4140
+"289","Peru",2000,140,NA,124,164,5000
+"290","Peru",1990,251,NA,207,325,3290
+"291","Philippines",2013,NA,72.8,NA,NA,7820
+"292","Philippines",2000,124,NA,110,138,3950
+"293","Philippines",1990,152,NA,126,175,2550
+"294","Poland",2000,8,NA,7,10,10540
+"295","Portugal",2000,13,NA,12,15,17340
+"296","Portugal",1990,17,NA,15,20,10960
+"297","Qatar",2012,NA,100,NA,NA,121750
+"298","Republic of Korea",2012,NA,99.8,NA,NA,32150
+"299","Republic of Korea",2000,16,NA,14,18,17990
+"300","Republic of Korea",1990,21,NA,19,24,8600
+"301","Republic of Moldova",2012,NA,99.2,NA,NA,4710
+"302","Republic of Moldova",2000,49,NA,43,56,1870
+"303","Republic of Moldova",1990,51,NA,45,58,4160
+"304","Romania",2008,NA,98.7,NA,NA,15280
+"305","Romania",2000,51,NA,44,58,5670
+"306","Romania",1990,124,NA,108,141,5160
+"307","Russian Federation",2008,NA,99.6,NA,NA,19710
+"308","Russian Federation",2000,57,NA,50,64,6650
+"309","Russian Federation",1990,63,NA,56,72,8000
+"310","Rwanda",2000,1020,NA,825,1230,600
+"311","Rwanda",1990,1300,NA,943,1690,550
+"312","Saint Lucia",2012,NA,98.7,NA,NA,10260
+"313","Saint Lucia",2000,54,NA,43,68,7060
+"314","Saint Lucia",1990,45,NA,36,57,4720
+"315","Saint Vincent and the Grenadines",2000,74,NA,58,92,5720
+"316","Saint Vincent and the Grenadines",1990,58,NA,47,75,3500
+"317","Samoa",2000,93,NA,48,181,3080
+"318","Samoa",1990,156,NA,84,279,3090
+"319","Saudi Arabia",2013,NA,98,NA,NA,53780
+"320","Saudi Arabia",2000,23,NA,16,34,29490
+"321","Saudi Arabia",1990,46,NA,32,67,24390
+"322","Senegal",2012,NA,59.1,NA,NA,2180
+"323","Senegal",2000,488,NA,382,626,1490
+"324","Senegal",1990,540,NA,425,688,1160
+"325","Serbia",2000,17,NA,13,21,5790
+"326","Seychelles",2012,NA,99,NA,NA,22220
+"327","Sierra Leone",2013,NA,59.7,NA,NA,1750
+"328","Sierra Leone",2000,2650,NA,1980,3460,770
+"329","Sierra Leone",1990,2630,NA,1780,3640,770
+"330","Singapore",2000,18,NA,15,22,40610
+"331","Singapore",1990,12,NA,10,15,21930
+"332","Slovakia",2008,NA,99.5,NA,NA,22840
+"333","Slovakia",2000,8,NA,7,9,10960
+"334","Slovakia",1990,11,NA,9,14,7680
+"335","Slovenia",2012,NA,99.8,NA,NA,27610
+"336","Slovenia",2000,12,NA,10,15,17590
+"337","Solomon Islands",2006,NA,85.5,NA,NA,1540
+"338","Solomon Islands",2000,214,NA,146,321,1360
+"339","Solomon Islands",1990,364,NA,241,550,790
+"340","South Africa",2008,NA,94.3,NA,NA,10960
+"341","South Africa",2000,85,NA,83,87,7370
+"342","South Africa",1990,108,NA,74,159,6190
+"343","South Sudan",2010,NA,17.2,NA,NA,2600
+"344","Spain",2000,5,NA,5,6,21160
+"345","Spain",1990,6,NA,6,7,13200
+"346","Sri Lanka",2006,NA,98.6,NA,NA,5640
+"347","Sri Lanka",2000,57,NA,52,63,3850
+"348","Sri Lanka",1990,75,NA,65,90,2150
+"349","Sudan",2010,NA,19.9,NA,NA,2970
+"350","Sudan",2000,544,NA,410,729,1790
+"351","Sudan",1990,744,NA,529,1050,1110
+"352","Suriname",2010,NA,90,NA,NA,13730
+"353","Suriname",2000,259,NA,219,312,7810
+"354","Suriname",1990,127,NA,104,155,6700
+"355","Swaziland",2000,586,NA,403,846,4730
+"356","Swaziland",1990,635,NA,390,995,3660
+"357","Sweden",2000,5,NA,5,6,27750
+"358","Sweden",1990,8,NA,7,9,19010
+"359","Switzerland",2000,7,NA,6,8,34890
+"360","Switzerland",1990,8,NA,7,10,25940
+"361","Tajikistan",2012,NA,87.4,NA,NA,2340
+"362","Tajikistan",2000,68,NA,58,80,900
+"363","Tajikistan",1990,107,NA,93,126,2350
+"364","Thailand",2012,NA,99.6,NA,NA,13420
+"365","Thailand",2000,25,NA,22,28,6980
+"366","Thailand",1990,40,NA,34,48,4070
+"367","The former Yugoslav republic of Macedonia",2000,12,NA,10,14,5710
+"368","The former Yugoslav republic of Macedonia",1990,14,NA,11,18,5220
+"369","Timor-Leste",2009,NA,29.3,NA,NA,5100
+"370","Timor-Leste",2000,694,NA,517,925,1640
+"371","Togo",2013,NA,44.6,NA,NA,1180
+"372","Togo",2000,491,NA,367,649,1010
+"373","Togo",1990,568,NA,430,759,860
+"374","Tonga",2012,NA,95.5,NA,NA,5370
+"375","Tonga",2000,97,NA,50,190,3700
+"376","Tonga",1990,75,NA,41,132,2370
+"377","Trinidad and Tobago",2000,62,NA,54,70,12980
+"378","Trinidad and Tobago",1990,90,NA,80,103,8040
+"379","Tunisia",2011,NA,73.6,NA,NA,9720
+"380","Tunisia",2000,84,NA,62,115,5620
+"381","Tunisia",1990,131,NA,96,175,3420
+"382","Turkey",2013,NA,97.4,NA,NA,18760
+"383","Turkey",2000,79,NA,59,108,9180
+"384","Turkey",1990,97,NA,63,149,4360
+"385","Turkmenistan",2005,NA,99.5,NA,NA,5400
+"386","Turkmenistan",2000,59,NA,41,80,3990
+"387","Tuvalu",2007,NA,93.1,NA,NA,5430
+"388","Uganda",2011,NA,58,NA,NA,1310
+"389","Uganda",2000,620,NA,503,766,690
+"390","Uganda",1990,687,NA,544,877,410
+"391","Ukraine",2012,NA,99,NA,NA,8670
+"392","Ukraine",2000,34,NA,30,39,3710
+"393","Ukraine",1990,46,NA,41,52,6960
+"394","United Arab Emirates",2010,NA,100,NA,NA,56260
+"395","United Kingdom of Great Britain and Northern Ireland",2000,12,NA,11,12,26280
+"396","United Kingdom of Great Britain and Northern Ireland",1990,10,NA,9,11,15770
+"397","United Republic of Tanzania",2010,NA,48.9,NA,NA,1500
+"398","United Republic of Tanzania",2000,842,NA,671,1050,820
+"399","United Republic of Tanzania",1990,997,NA,775,1280,640
+"400","United States of America",2000,12,NA,12,12,36930
+"401","United States of America",1990,12,NA,11,13,23730
+"402","Uruguay",2013,NA,98.2,NA,NA,18930
+"403","Uruguay",2000,31,NA,26,36,9960
+"404","Uruguay",1990,37,NA,32,44,6000
+"405","Uzbekistan",2006,NA,99.6,NA,NA,2950
+"406","Uzbekistan",2000,34,NA,30,39,1940
+"407","Vanuatu",2013,NA,89.4,NA,NA,2840
+"408","Vanuatu",2000,144,NA,73,276,2120
+"409","Vanuatu",1990,225,NA,126,406,1680
+"410","Venezuela (Bolivarian Republic of)",2000,90,NA,80,100,11340
+"411","Venezuela (Bolivarian Republic of)",1990,94,NA,83,105,9260
+"412","Viet Nam",2013,NA,93.8,NA,NA,5030
+"413","Viet Nam",2000,81,NA,61,102,2070
+"414","Viet Nam",1990,139,NA,92,186,910
+"415","Yemen",2013,NA,43,NA,NA,3820
+"416","Yemen",2000,440,NA,337,573,2930
+"417","Yemen",1990,547,NA,389,736,2210
+"418","Zambia",2013,NA,64.2,NA,NA,3070
+"419","Zambia",2000,541,NA,441,666,1590
+"420","Zambia",1990,577,NA,449,757,1500
+"421","Zimbabwe",2000,590,NA,534,664,1890
+"422","Zimbabwe",1990,440,NA,351,523,1590
+"423","Albania",2009,NA,99.3,NA,NA,9370
+"424","Algeria",2013,NA,96.6,NA,NA,12990
+"425","Angola",2007,NA,46.7,NA,NA,5320
+"426","Cote d'Ivoire",2012,NA,56.4,NA,NA,2680
+"427","Honduras",2012,NA,82.8,NA,NA,4190
+"428","Kazakhstan",2011,NA,99.5,NA,NA,17710
+"429","Lao People's Democratic Republic",2012,NA,40.1,NA,NA,4170
+"430","Madagascar",2013,NA,44.3,NA,NA,1350
+"431","Mali",2013,NA,57.1,NA,NA,1540
+"432","Nicaragua",2012,NA,88,NA,NA,4240
+"433","Pakistan",2013,NA,52.1,NA,NA,4920
+"434","Solomon Islands",2007,NA,85.5,NA,NA,1520
+"435","Sri Lanka",2007,NA,98.6,NA,NA,6140
+"436","Timor-Leste",2010,NA,29.3,NA,NA,6320
+"437","Tunisia",2012,NA,73.6,NA,NA,10470
+"438","Turkmenistan",2006,NA,99.5,NA,NA,6370
